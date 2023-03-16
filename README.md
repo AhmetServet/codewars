@@ -7,4 +7,4 @@ I post solutions for Codewars problems here.
 1. Detect Pangram
 2. Duplicate Encode
 3. Counting Duplicates
-
+4. Find the Parity Outlier
