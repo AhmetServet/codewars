@@ -14,6 +14,8 @@ Welcome to my collection of solutions for Codewars problems. Below you will find
 8. **Array.diff** - [array-diff.py](array-diff.py)
 9. **Spinning Words** - [spinning-words.py](spinning-words.py)
 10. **Mexican Wave** - [mexican-wave.py](mexican-wave.py)
+11. **Moving Zeros To The End** - [moving-zeros-to-end.py](moving-zeros-to-end.py)
+12. **Human Readable Time** - [human-readable-time.py](human-readable-time.py)
 
 ## How to Use
 
